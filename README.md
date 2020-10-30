@@ -6,7 +6,7 @@
 💬 Ask me about!
 
 ⚡ Fun fact: I developed a discord bot and it got verified. Want to see how it works? Invite him or check here in this image ->
-<img src="<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://discord.com/oauth2/authorize?client_id=714331640867979304&permissions=2117598535&scope=bot.png" align="right" width="90">" align="right" width="90">
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://discord.com/oauth2/authorize?client_id=714331640867979304&permissions=2117598535&scope=bot.png" align="right" width="90">" align="right" width="90">
 
 <!--
 **brunogomes98/brunogomes98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
