@@ -13,6 +13,7 @@
 
 🔭 I'm currently focused on NodeJS, JavaScript, Typescript and React.
 
+#### ![](https://img.shields.io/badge/C-%3C%2F%3E-blue) ![](https://img.shields.io/badge/JavaScript-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/C%2B%2B-%3C%2F%3E-red) ![](https://img.shields.io/badge/NodeJS-%3C%2F%3E-sucess) ![](https://img.shields.io/badge/React-%3C%2F%3E-orange) ![](https://img.shields.io/badge/React%20Native-%3C%2F%3E-important) ![](https://img.shields.io/badge/Java-%3C%2F%3E-critical)
 <!--
 **brunogomes98/brunogomes98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
