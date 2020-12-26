@@ -17,7 +17,7 @@
 
 ✍ I’m currently learning more TypeScript and starting with C#
 
-[Check my website](https://brunogomes98.github.io/MyPortfolio)
+[Check my Portfolio](https://brunogomes98.github.io/MyPortfolio)
 
 #### ![](https://img.shields.io/badge/C-%3C%2F%3E-blue) ![](https://img.shields.io/badge/JavaScript-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/C%2B%2B-%3C%2F%3E-red) ![](https://img.shields.io/badge/NodeJS-%3C%2F%3E-sucess) ![](https://img.shields.io/badge/React-%3C%2F%3E-orange) ![](https://img.shields.io/badge/React%20Native-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Java-%3C%2F%3E-critical) ![](https://img.shields.io/badge/Typescript-%3C%2F%3E-9cf)
 <!--
