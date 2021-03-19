@@ -8,7 +8,7 @@
 
 💬 Ask me about!
 
-⚡ Fun fact: I developed a discord bot and it got verified, programmed on NodeJS. Want to see how it works? Invite him or check here in this image or check with your qrcode app.
+⚡ Fun fact: I developed a discord bot and it got verified, programmed with NodeJS. Want to see how it works? Invite him or check here in this image or check with your qrcode app.
 <a href="https://discord.com/oauth2/authorize?client_id=714331640867979304&permissions=2117598535&scope=bot">
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://discord.com/oauth2/authorize?client_id=714331640867979304&permissions=2117598535&scope=bot.png" align="right" width="100"> 
 </a>
