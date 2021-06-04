@@ -12,8 +12,9 @@
 <a href="https://discord.com/oauth2/authorize?client_id=714331640867979304&permissions=2117598535&scope=bot">
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://discord.com/oauth2/authorize?client_id=714331640867979304&permissions=2117598535&scope=bot.png" align="right" width="100"> 
 </a>
+🔭 I'm working as freelancer with @Whoapp [WhoApp](https://whoapp.com.br/)
 
-🔭 I'm currently focused on NodeJS, JavaScript, Typescript and React.
+🌱 I'm currently focused on NodeJS, JavaScript, Typescript and React.
 
 ✍ I’m currently learning more TypeScript and starting with C#
 
