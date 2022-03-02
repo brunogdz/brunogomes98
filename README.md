@@ -1,7 +1,7 @@
 <img src="https://i.giphy.com/USV0ym3bVWQJJmNu3N.gif" alt="Coder GIF" width="500" height="400">
  </abc>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-gomes-de-azevedo-6603941a0)](https://www.linkedin.com/in/bruno-gomes-de-azevedo-6603941a0) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-gomes-de-azevedo-6603941a0)](https://www.linkedin.com/in/brunogomesazevedo/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunog.vix@gmail.com)](mailto:brunog.vix@gmail.com)
 
 ### Hi there 👋
