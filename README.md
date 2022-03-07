@@ -13,9 +13,9 @@
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://discord.com/oauth2/authorize?client_id=714331640867979304&permissions=2117598535&scope=bot.png" align="right" width="100"> 
 </a>
 
-🔭 I'm working as web development freelancer with @Whoapp and @BioClimaEngenharia [WhoApp](https://whoapp.com.br/) | [BioClimaEngenharia](https://www.bioclimaengenharia.com.br/)
+🔭 I'm working as Software Enginner
 
-🌱 I'm currently focused on NodeJS, JavaScript, Typescript and React.
+🌱 I'm currently focused on NodeJS, JavaScript, Typescript, React and React Native.
 
 ✍ I’m currently learning more TypeScript and starting with C#
 
